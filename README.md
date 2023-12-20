@@ -18,6 +18,7 @@ Foi criada uma funcionalidade para validar arquivos ccb em pdf criados por QITEC
 Atributos validados:
 
 <ul>
+ 
 <li> Número da Cédula ( == Número Facta ou Número CCB ?? ) </li>
 <li> Nome do Cliente </li>
 <li> CPF do Cliente </li>
