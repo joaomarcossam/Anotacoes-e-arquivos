@@ -16,12 +16,16 @@ Foi feita uma alteração do template:
 
 Foi criada uma funcionalidade para validar arquivos ccb em pdf criados por QITECH
 Atributos validados:
-• Número da Cédula ( == Número Facta ou Número CCB ?? )
-• Nome do Cliente
-• CPF do Cliente
-• CNPJ Correspondente
-• Valor financiado
-• Valor de parcela
-• Hash Assinatura
+
+<ul>
+<li> Número da Cédula ( == Número Facta ou Número CCB ?? ) </li>
+<li> Nome do Cliente </li>
+<li> CPF do Cliente </li>
+<li> CNPJ Correspondente </li>
+<li> Valor financiado </li>
+<li> Valor de parcela </li>
+<li> Hash Assinatura </li>
+ 
+</ul>
 
 ### 
